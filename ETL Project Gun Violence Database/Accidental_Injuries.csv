@@ -1,0 +1,501 @@
+"Incident ID","Incident Date",State,"City Or County",Address,"# Killed","# Injured",Operations
+1636215,"March 8, 2020",Georgia,Atlanta,"898 Oak St SW",0,1,N/A
+1636193,"March 8, 2020",Tennessee,Cordova,"7100 block of Charlton Way",0,1,N/A
+1636343,"March 8, 2020",Virginia,Salem,"Richland Hills Dr",0,1,N/A
+1635707,"March 7, 2020","South Carolina",Una,"1200 block of Edgewood Dr",0,1,N/A
+1635570,"March 7, 2020","New Mexico",Albuquerque,"1700 block of Rayo del Sol SW",0,4,N/A
+1636365,"March 7, 2020",Tennessee,Paris,"301 Tyson Ave",1,1,N/A
+1635221,"March 6, 2020",Michigan,Detroit,"1301 3rd Ave",0,1,N/A
+1635607,"March 6, 2020",California,Escondido,N/A,0,1,N/A
+1635159,"March 6, 2020",Louisiana,"New Orleans","2200 block of Louisiana Ave",0,2,N/A
+1634541,"March 5, 2020","New York",Buffalo,"1 Walden Galleria",0,1,N/A
+1635281,"March 5, 2020",Virginia,Powhatan,"2600 block of Maidens Rd",0,1,N/A
+1635113,"March 5, 2020",Florida,"Fort Lauderdale (Weston)","2585 Glades Cir",0,1,N/A
+1634399,"March 5, 2020",Indiana,Brownstown,"1027 W Oak St",0,2,N/A
+1634334,"March 5, 2020",Connecticut,Westport,"Merritt Pkwy",0,1,N/A
+1635359,"March 5, 2020",Texas,Cypress,"7600 block of Oak Sage Dr",0,1,N/A
+1634932,"March 4, 2020",Pennsylvania,Philadelphia,N/A,0,1,N/A
+1634611,"March 4, 2020",Texas,Texarkana,"2500 N Robinson Ave",0,1,N/A
+1633807,"March 3, 2020","South Carolina",Columbia,"6600 block of Bailey St",0,1,N/A
+1633562,"March 3, 2020",Missouri,Bolivar,"300 block of N Park Ave",0,1,N/A
+1634756,"March 3, 2020",Arkansas,"Little Rock","8800 Baseline Rd",0,1,N/A
+1634072,"March 3, 2020",Texas,Tyler,"3400 Varsity Dr",1,2,N/A
+1633558,"March 2, 2020",Florida,"Vero Beach","3980 King Pl",0,1,N/A
+1632731,"March 2, 2020",California,Vista,"300 block of Paseo Marguerita",0,1,N/A
+1632813,"March 2, 2020",Oregon,Portland,"6600 block of NE Tillamook St",0,2,N/A
+1632282,"March 1, 2020",Wisconsin,Janesville,"4011 S County Rd G",0,1,N/A
+1632401,"March 1, 2020",Massachusetts,Plymouth,"Forest Avenue",0,1,N/A
+1632354,"March 1, 2020",California,"Los Angeles","1700 block of N Highland Ave",1,3,N/A
+1631792,"March 1, 2020",Oklahoma,"Oklahoma City","NE 32nd St and N Lincoln Blvd",0,1,N/A
+1631780,"March 1, 2020",Michigan,Detroit,"19700 block of Littlefield St",0,1,N/A
+1631705,"March 1, 2020",Kentucky,Louisville,"1500 block of South 9th Street",0,1,N/A
+1631212,"February 29, 2020",Pennsylvania,Pottsville,"204 Peacock St",0,4,N/A
+1632984,"February 29, 2020",Florida,Tallahassee,"Millworks Way",0,1,N/A
+1631969,"February 28, 2020",Massachusetts,Harwich,"400 block of Queen Anne Rd",0,1,N/A
+1630461,"February 27, 2020","North Carolina","High Point","Pinecroft St",0,1,N/A
+1630062,"February 26, 2020",Wisconsin,Madison,"5900 block of Jackson Quarry Ln",0,1,N/A
+1629042,"February 25, 2020",Illinois,Chicago,"1238 E 79th St",1,4,N/A
+1629576,"February 25, 2020",Missouri,"Pleasant Hope",N/A,0,1,N/A
+1628745,"February 25, 2020",Louisiana,"New Orleans","Tulane Ave and S Galvez St",0,1,N/A
+1629036,"February 25, 2020",Texas,Houston,"18204 Chisholm Trl",0,1,N/A
+1627990,"February 24, 2020",Texas,Houston,"4600 block of W 34th St",0,1,N/A
+1627713,"February 23, 2020",Texas,Houston,"8712 Airline Dr",0,7,N/A
+1628318,"February 23, 2020",Michigan,Chesaning,"1900 block of Brady Rd",0,2,N/A
+1628275,"February 23, 2020",Missouri,"Kansas City","8500 block of E 92nd Pl",0,1,N/A
+1627425,"February 23, 2020","New York",Buffalo,"Berkshire Ave and Bailey Ave",0,1,N/A
+1627457,"February 23, 2020","District of Columbia",Washington,"200 block of Okie St NE",1,2,N/A
+1629179,"February 23, 2020",Michigan,Elsie,"19000 block of S Chapin Rd",0,2,N/A
+1627380,"February 22, 2020",Pennsylvania,"East Stroudsburg","4 Arnold Drive",0,1,N/A
+1626863,"February 22, 2020",Tennessee,Nashville,"2000 block of Albion St",0,1,N/A
+1626235,"February 21, 2020",Kentucky,Hopkinsville,"918 W 1st St",0,1,N/A
+1626705,"February 21, 2020",Michigan,Detroit,"20100 block of Houghton St",0,1,N/A
+1627838,"February 21, 2020",Oregon,"Sweet Home","28100 block of Ridgeway Rd",0,1,N/A
+1625748,"February 20, 2020","District of Columbia",Washington,"1600 block of Good Hope Rd SE",0,2,N/A
+1631428,"February 20, 2020",Arizona,"Show Low","2800 block of W Owens St",0,1,N/A
+1625773,"February 20, 2020","District of Columbia",Washington,"2529 Pennsylvania Ave SE",0,1,N/A
+1627807,"February 20, 2020",Mississippi,Ovett,N/A,0,1,N/A
+1629941,"February 19, 2020",Illinois,Peoria,N/A,0,1,N/A
+1625043,"February 19, 2020","New Jersey","Penns Grove","100 block of Penn St",0,1,N/A
+1625030,"February 19, 2020",Texas,Bryan,"303 E 29th St",0,2,N/A
+1625706,"February 19, 2020",Ohio,Toledo,"900 block of Artis Place",0,2,N/A
+1631278,"February 18, 2020",California,"Valley Springs","10 Vista Del Lago Dr",0,1,N/A
+1624441,"February 18, 2020",Florida,"Lake City","377 NW Bascom Norris Dr",0,3,N/A
+1624304,"February 18, 2020",Louisiana,Shreveport,"1800 block of Stone Cliff Cir",0,2,N/A
+1624943,"February 18, 2020",Nebraska,Omaha,"4721 N 66th St",0,1,N/A
+1624265,"February 18, 2020",Texas,Plano,"6400 Independence Pkwy",0,1,N/A
+1623862,"February 17, 2020",Virginia,Petersburg,"1000 block of Lee Ave",0,1,N/A
+1630195,"February 17, 2020",Wisconsin,Appleton,N/A,0,1,N/A
+1625298,"February 17, 2020",Connecticut,"Danielson (Killingly)","Robinwood Blvd",0,1,N/A
+1623784,"February 17, 2020",Florida,Orlando,"907 S Kirkman Rd",0,1,N/A
+1622932,"February 17, 2020",Illinois,Chicago,"200 block of S Dearborn",1,2,N/A
+1624268,"February 17, 2020",Kansas,Shawnee,"15941 W 65th St",0,1,N/A
+1623933,"February 16, 2020",Tennessee,Morristown,"4700 block of Chucky River Rd",0,1,N/A
+1624596,"February 16, 2020",Connecticut,Cromwell,"Coles Road",0,1,N/A
+1622589,"February 16, 2020",Georgia,Atlanta,"2200 block of Cheshire Bridge Rd NE",0,1,N/A
+1622566,"February 16, 2020",Michigan,Detroit,"14918 Greenfield Rd",0,1,N/A
+1622693,"February 16, 2020",Texas,Houston,"4700 block of Carmen St",0,1,N/A
+1622789,"February 15, 2020",Missouri,"Saint Louis","3400 block of Indiana Ave",0,1,N/A
+1622312,"February 15, 2020",Illinois,Chicago,"W 24th St and S Troy St",0,1,N/A
+1623104,"February 15, 2020",Kentucky,Paducah,N/A,0,1,N/A
+1622267,"February 15, 2020","North Carolina",Benson,"1300 block of Chicopee Road",0,1,N/A
+1622367,"February 15, 2020",Pennsylvania,"Fleetwood (Rockland)","Rockland Station Rd",0,1,N/A
+1622333,"February 15, 2020",Pennsylvania,Lancaster,"600 block of E Madison St",0,2,N/A
+1621636,"February 14, 2020",Texas,Dallas,"1800 block of Stella Ave",0,1,N/A
+1621865,"February 14, 2020",Georgia,"Atlanta (East Point)","3650 Marketplace Boulevard",0,3,N/A
+1621834,"February 14, 2020",Illinois,Chicago,"3100 block of W Fillmore St",0,1,N/A
+1621830,"February 14, 2020",Illinois,Chicago,"4700 S Forrestville Ave",0,2,N/A
+1624362,"February 14, 2020",Texas,"San Angelo","613 W 29th St",0,1,N/A
+1620855,"February 13, 2020",Virginia,Petersburg,"2300 block of Navajo Ct",0,1,N/A
+1621120,"February 13, 2020",Oregon,"Klamath Falls","8245 OR-39",0,1,N/A
+1620709,"February 12, 2020","New Hampshire",Sanbornton,N/A,0,1,N/A
+1620014,"February 12, 2020",Maryland,Baltimore,"1600 block of N Smallwood Ave",0,1,N/A
+1620617,"February 12, 2020",Indiana,Lowell,N/A,0,1,N/A
+1619396,"February 11, 2020",Tennessee,"La Follette","2245 Jacksboro Pike",0,1,N/A
+1620757,"February 11, 2020",Texas,"San Antonio","5919 W Commerce",0,1,N/A
+1620125,"February 11, 2020",Virginia,"Prince George",N/A,0,1,N/A
+1626757,"February 11, 2020",Illinois,Collinsville,"Brookhill Ct",0,1,N/A
+1619755,"February 11, 2020",Arkansas,Magnolia,"Co Rd 78",0,1,N/A
+1625709,"February 11, 2020",Kentucky,Stanton,"Robbie Ridge Rd",0,1,N/A
+1617807,"February 9, 2020",Texas,Dallas,"9450 N Central Expy",0,1,N/A
+1617560,"February 9, 2020",Minnesota,Moorhead,"400 block of 8th St S",0,1,N/A
+1617489,"February 9, 2020",Pennsylvania,Lancaster,"2384 New Holland Pike",0,2,N/A
+1618057,"February 9, 2020",Oregon,Redmon,"Buckhorn Dr",0,1,N/A
+1617923,"February 9, 2020",Texas,"San Antonio","5800 block of Midcrown Dr",0,4,N/A
+1617787,"February 8, 2020",California,"Marysville (Loma Rica)","4800 block of Fruitland Rd",0,1,N/A
+1617708,"February 8, 2020",Ohio,Dayton,"5500 Savina Ave",0,1,N/A
+1619657,"February 8, 2020",Arizona,Williams,"S 3rd St",0,1,N/A
+1617368,"February 8, 2020",Illinois,Chicago,"4700 S Ingleside Ave",0,1,N/A
+1616342,"February 7, 2020",Maryland,"Lexington Park","21374 Sanners Rd",0,1,N/A
+1616211,"February 7, 2020","South Carolina",Walterboro,"656 Bells Hwy",0,1,N/A
+1616548,"February 7, 2020",Kentucky,Franklin,"1550 Nashville Rd",0,1,N/A
+1616771,"February 7, 2020",Louisiana,"New Orleans","Read Blvd and South I-10 Service Rd",0,1,N/A
+1617203,"February 7, 2020",Alabama,Fairfield,"300 block of 67th St",0,1,N/A
+1615948,"February 6, 2020","South Carolina",Pendleton,"950 Cherry St",1,1,N/A
+1616191,"February 6, 2020",Alabama,Choccolocco,"3400 block of Choccolocco Rd",0,1,N/A
+1615618,"February 5, 2020",Virginia,Montross,"100 block of Santa Cruz Rd",0,3,N/A
+1614922,"February 5, 2020",Illinois,Woodridge,"3300 block of 83rd St",0,1,N/A
+1616126,"February 5, 2020",Florida,"Fort Myers","3711 Nelson Tillis Blvd",0,1,N/A
+1615852,"February 5, 2020",Georgia,Macon,"2700 block of Heaton Dr",0,1,N/A
+1614648,"February 4, 2020",Indiana,Seelyville,"11000 block of N Main St",0,1,N/A
+1614679,"February 4, 2020",Utah,"Salt Lake City",N/A,0,1,N/A
+1614438,"February 4, 2020",Texas,Beaumont,"19000 block of Burrell-Wingate Rd",0,1,N/A
+1613910,"February 3, 2020",Indiana,Gary,"Carolina St and E 21st Ave",0,1,N/A
+1612585,"February 2, 2020",Louisiana,Opelousas,N/A,0,2,N/A
+1612535,"February 2, 2020",Texas,Hurst,"852 N E Mall Blvd",0,2,N/A
+1613267,"February 2, 2020",Georgia,"Stone Mountain","2075 W Park Place Blvd",0,2,N/A
+1613935,"February 2, 2020",Massachusetts,Worcester,"31 Elizabeth Street",0,1,N/A
+1612365,"February 2, 2020",Oregon,Portland,"725 NE Weidler St",0,1,N/A
+1611922,"February 2, 2020",Florida,Jacksonville,"9100 block of Madison Ave",0,1,N/A
+1612500,"February 2, 2020",Arizona,Tucson,"29th St and Craycroft Rd",0,2,N/A
+1617147,"February 1, 2020",Michigan,Ionia,"4000 block of W. Lincoln Ave",0,1,N/A
+1611644,"February 1, 2020",Kansas,Wichita,"5205 E Kellogg Dr",0,1,N/A
+1612518,"February 1, 2020",Louisiana,Shreveport,"3100 block of Hollywood Ave",0,1,N/A
+1611764,"February 1, 2020",Pennsylvania,Indiana,"100 block of College Lodge Rd",0,1,N/A
+1613714,"February 1, 2020",Vermont,Wolcott,N/A,0,1,N/A
+1611478,"January 31, 2020",Ohio,Columbus,"700 N High St",0,1,N/A
+1610538,"January 31, 2020",Michigan,"Grand Rapids","1300 block of N White St",0,1,N/A
+1611425,"January 31, 2020",Virginia,Richmond,"2800 block of Fairfield Ave",0,1,N/A
+1611044,"January 31, 2020",Indiana,Griffith,"1800 block of N Arbogast St",0,2,N/A
+1609853,"January 30, 2020",Arizona,Seligman,"Pipeline Rd",0,1,N/A
+1609987,"January 30, 2020",Utah,"Brigham City",N/A,0,1,N/A
+1609513,"January 30, 2020",Utah,"Salt Lake City (Murray)","5200 S 800 E",0,1,N/A
+1610061,"January 30, 2020","North Carolina","High Point","802 Lakecrest Ave",0,1,N/A
+1608602,"January 29, 2020",Missouri,"Saint Louis","2800 block of Gamble St",0,1,N/A
+1608776,"January 28, 2020",Georgia,Augusta,"1200 block of Brown Rd",0,1,N/A
+1608192,"January 28, 2020",Illinois,Springfield,"1500 block of Patton Ave",0,1,N/A
+1609267,"January 28, 2020",Georgia,Cedartown,"805 N Main St",0,1,N/A
+1607881,"January 28, 2020","New York","Corona (Queens)","Hillside Ave and 229th St",0,1,N/A
+1607374,"January 27, 2020",Missouri,"Saint Louis","3900 Holly Hills Blvd",0,1,N/A
+1607735,"January 27, 2020",Ohio,Byesville,"Meadowbrook Drive",0,1,N/A
+1607462,"January 27, 2020",Illinois,Chicago,"850 W Eastwood Ave",0,1,N/A
+1606160,"January 26, 2020",Oklahoma,"Oklahoma City","1300 SW 54th St",0,1,N/A
+1607910,"January 26, 2020",Michigan,Pontiac,"300 block of Hopkins Avenue",0,1,N/A
+1606658,"January 26, 2020",Tennessee,Knoxville,"3399 Lake Brook Blvd",0,1,N/A
+1605747,"January 26, 2020",Delaware,Magnolia,"100 block of Terry Dr",0,1,N/A
+1606158,"January 25, 2020",Louisiana,Keithville,"1900 block of Post Oak Dr",0,1,N/A
+1606337,"January 25, 2020",Pennsylvania,Lancaster,"400 block of Manor St",0,1,N/A
+1605578,"January 25, 2020",Florida,Tampa,"4330 N 40th St",0,2,N/A
+1605545,"January 25, 2020",Ohio,Vandalia,"Randler Ave",0,1,N/A
+1604908,"January 24, 2020",Ohio,Franklin,"60 Hemlock St",0,1,N/A
+1607134,"January 24, 2020",Ohio,Toledo,N/A,0,1,N/A
+1605394,"January 24, 2020",Virginia,Shipman,"2000 block of Keys Church Rd",0,1,N/A
+1606021,"January 24, 2020",Wyoming,Torrington,"6th St",0,1,N/A
+1607758,"January 24, 2020",Massachusetts,Winchester,"Kapper Drive",0,0,N/A
+1604512,"January 24, 2020",Florida,Ocala,"3600 block of NE 21st St",0,1,N/A
+1605015,"January 24, 2020","North Carolina",Wilson,"817 Rountree St",0,1,N/A
+1605171,"January 24, 2020",Mississippi,Jackson,"3100 block of Woodbine St",0,1,N/A
+1613097,"January 24, 2020",Kentucky,Louisville,"280 W Jefferson St",0,1,N/A
+1604950,"January 24, 2020",Ohio,Columbus,"1900 block of Jermain Dr",0,1,N/A
+1604603,"January 23, 2020",Tennessee,Lebanon,"1112 W Main St",0,2,N/A
+1604776,"January 23, 2020",Ohio,Cleveland,"W 38th St and Robert Ave",0,1,N/A
+1603806,"January 23, 2020",California,Oxnard,"3300 Via Marina Ave",0,1,N/A
+1604703,"January 23, 2020",Missouri,Branson,"100 block of Champagne Dr",0,1,N/A
+1603811,"January 23, 2020",Kentucky,Prestonsburg,"371 Village Dr",0,1,N/A
+1604452,"January 23, 2020","New York",Bronx,"Hughes Ave",0,2,N/A
+1604327,"January 23, 2020",Alabama,Jasper,I-22,0,1,N/A
+1603241,"January 22, 2020",Washington,Seattle,"1530 3rd Ave",1,7,N/A
+1603038,"January 22, 2020","New Jersey",Hackensack,"457 Hudson Street",0,1,N/A
+1602081,"January 21, 2020","West Virginia",Charleston,N/A,0,1,N/A
+1604070,"January 20, 2020",Michigan,Detroit,"Marlowe St and Puritan Ave",0,1,N/A
+1601786,"January 20, 2020",Alabama,"Gadsden (Hokes Bluff)","Speedy Ln",0,1,N/A
+1601558,"January 20, 2020",Nevada,Reno,"1611 Wedekind Rd",0,1,N/A
+1600337,"January 19, 2020",Pennsylvania,Erie,"300 block of Southgate Dr",1,1,N/A
+1600927,"January 19, 2020",Georgia,Augusta,"2161 Gordon Hwy",0,2,N/A
+1601442,"January 19, 2020",Indiana,Bloomington,"1297 E Zinnia Dr",1,1,N/A
+1600681,"January 19, 2020",Iowa,"Des Moines","1300 block of 8th St",0,1,N/A
+1603049,"January 18, 2020",Illinois,Effingham,"1703 Avenue of Mid-America",0,1,N/A
+1605104,"January 18, 2020",Oklahoma,Guthrie,"E Noble Ave and N Ash St",0,1,N/A
+1600651,"January 18, 2020",Pennsylvania,Bethlehem,"1800 block of Troxell St",0,1,N/A
+1602855,"January 17, 2020","South Carolina",Columbia,"8700 block of Windsor Lake Blvd",0,1,N/A
+1599412,"January 17, 2020",Louisiana,"Saint Bernard (Hopedale)",N/A,0,1,N/A
+1599230,"January 17, 2020",Michigan,Howell,"4125 Crooked Lake Rd",0,1,N/A
+1599041,"January 17, 2020",Virginia,Hampton,"50  block of E Queens Way",0,1,N/A
+1599211,"January 16, 2020",Florida,"Fort Lauderdale","2800 block of NW 26th St",0,1,N/A
+1598300,"January 16, 2020",Tennessee,Jackson,"164 Allen Ave",0,3,N/A
+1599141,"January 16, 2020","Rhode Island",Providence,"16 What Cheer Avenue",0,1,N/A
+1598845,"January 16, 2020",Delaware,Wilmington,"400 block of Queen St",0,1,N/A
+1598580,"January 15, 2020",Alabama,Athens,"Aretha St",0,1,N/A
+1598379,"January 15, 2020","North Carolina",Greenville,"3305 E 10th St",0,1,N/A
+1597282,"January 15, 2020","South Carolina",Greenville,"Main St",0,1,N/A
+1597760,"January 15, 2020","North Carolina",Greenville,"3305 East 10th Street",0,2,N/A
+1597714,"January 15, 2020",Wisconsin,Milwaukee,"N 36th St and W Meinecke Ave",0,1,N/A
+1597962,"January 15, 2020",Louisiana,Mandeville,"Village Ln S",0,1,N/A
+1597335,"January 15, 2020",Arizona,Phoenix,"N 27th Ave and W Northern Ave",0,1,N/A
+1601933,"January 15, 2020",Florida,"Miami (Cutler Bay)","26231 SW 139th Ct",0,1,N/A
+1597618,"January 15, 2020",Florida,"Fort Lauderdale","3260 Davie Blvd",0,1,N/A
+1596558,"January 14, 2020",Florida,Orlando,"5000 block of Indialantic Dr",0,1,N/A
+1597971,"January 14, 2020",Idaho,Meridian,"2100 block of 9th Ave",0,1,N/A
+1597731,"January 14, 2020",Oregon,Phoenix,"500 block of W 5th St",0,2,N/A
+1597479,"January 14, 2020",Mississippi,Meridian,"2100 block of 9th Ave",0,1,N/A
+1598694,"January 14, 2020",Texas,Dallas,"8100 block of Lyndon B Johnson Fwy",0,1,N/A
+1595572,"January 13, 2020",Ohio,"Dayton (Riverside)","Eubanks Dr and Airway Rd",0,1,N/A
+1595239,"January 13, 2020",Georgia,Atlanta,"Nelson St",0,1,N/A
+1597507,"January 13, 2020",Texas,"San Antonio","6511 W Military Dr",0,2,N/A
+1594964,"January 12, 2020",Louisiana,"New Orleans","1901 Tchoupitoulas St",0,1,N/A
+1595459,"January 12, 2020",Michigan,Detroit,"Crusade St and Liberal St",0,1,N/A
+1597975,"January 12, 2020",Idaho,Meridian,"2100 block of 25th Ave",0,1,N/A
+1594367,"January 12, 2020",Indiana,"Fort Wayne","3221 N Clinton St",0,1,N/A
+1602599,"January 12, 2020",Mississippi,Meridian,"2100 block of 25th Ave",0,1,N/A
+1594714,"January 11, 2020",Ohio,"Lima (Cridersville)","2046 Sandy Ln",0,2,N/A
+1594659,"January 11, 2020",Iowa,Kane,"US-30 and 13th Ave",0,1,N/A
+1593690,"January 10, 2020",Missouri,"Saint Louis","1600 block of W Pine Blvd",0,1,N/A
+1593599,"January 10, 2020",Tennessee,"Soddy Daisy","12457 Nee Cee Dr",0,2,N/A
+1595329,"January 10, 2020",Illinois,Chicago,"800 block of N Cambridge Ave",0,1,N/A
+1597942,"January 10, 2020",Washington,"Oak Harbor","1191 SE Dock St",0,1,N/A
+1593698,"January 10, 2020",Florida,Jacksonville,"500 Acme St",0,1,N/A
+1593357,"January 9, 2020",Texas,"San Antonio","900 block of Canton St",0,2,N/A
+1592976,"January 9, 2020",Texas,Houston,"12510 S Green Dr",0,1,N/A
+1593831,"January 9, 2020",Ohio,Amherst,"100 block of S Leavitt Rd",0,1,N/A
+1593453,"January 9, 2020",Texas,"San Antonio","400 block of Amberdale Oak",0,1,N/A
+1592140,"January 8, 2020",Indiana,Indianapolis,"4000 block of Windhill Dr",0,1,N/A
+1591936,"January 8, 2020",Michigan,Adrian,N/A,0,1,N/A
+1590688,"January 7, 2020","West Virginia",Lewisburg,"Brush Rd and US-219",0,1,N/A
+1592797,"January 7, 2020",Florida,"Daytona Beach",N/A,0,1,N/A
+1590263,"January 6, 2020",Ohio,Okeana,"6000 block of Layhigh Rd",0,1,N/A
+1589609,"January 6, 2020",Maryland,"Temple Hills (Marlow Heights)","4200 block of 28th Ave",1,1,N/A
+1589915,"January 6, 2020","New Mexico","Belen (Rio Communities)","Logan St",0,1,N/A
+1589932,"January 6, 2020",Louisiana,"New Orleans (Gentilly)","4301 Chef Menteur Hwy",1,1,N/A
+1588919,"January 5, 2020",Georgia,Atlanta,"1008 Brady Ave NW",0,4,N/A
+1589251,"January 5, 2020",Indiana,Evansville,"2340 Sunburst Blvd",0,1,N/A
+1588560,"January 4, 2020",Texas,Vidor,"Old Spanish Trail and Polly St",0,1,N/A
+1591414,"January 4, 2020",Georgia,"Powder Springs","Vine Ridge Dr",0,1,N/A
+1588399,"January 4, 2020","South Carolina",Anderson,"3027 Martin Luther King Jr Blvd",0,1,N/A
+1589597,"January 4, 2020",Minnesota,"Sauk Centre","49000 block of 400th St",0,1,N/A
+1588319,"January 4, 2020",Florida,Clermont,"215 US-27",0,2,N/A
+1588978,"January 4, 2020","South Carolina","North Charleston","3900 block of Walnut St",0,1,N/A
+1589230,"January 3, 2020",California,"La Mesa","4800 block of Parks Ave",0,1,N/A
+1591399,"January 3, 2020",Massachusetts,Boston,"1 Harborside Dr",0,0,N/A
+1588903,"January 3, 2020",Massachusetts,Hardwick,"59 Thresher Rd",0,1,N/A
+1587916,"January 3, 2020",Ohio,Cincinnati,"11355 Chester Rd",0,1,N/A
+1588106,"January 3, 2020",Arkansas,Fayetteville,"2765 N Club Dr",0,1,N/A
+1588678,"January 2, 2020",Oklahoma,Shawnee,"40960 Hardesty Rd",0,1,N/A
+1587401,"January 2, 2020","New York",Plainview,"Benmore Ct",0,1,N/A
+1588324,"January 2, 2020",Indiana,Indianapolis,"7200 block of Vega Way",0,1,N/A
+1587560,"January 2, 2020",Indiana,"East Chicago","4800 block of Walsh Ave",0,1,N/A
+1587429,"January 2, 2020",Indiana,Indianapolis,"2700 block of Chamberlin Dr",0,1,N/A
+1587449,"January 2, 2020",Iowa,"Council Bluffs","2300 block of Ave F",0,1,N/A
+1586031,"January 1, 2020",Alaska,Anchorage,"1900 block of E 5th Ave",0,1,N/A
+1585823,"January 1, 2020",Texas,Austin,"302 E 6th St",0,2,N/A
+1587822,"January 1, 2020",Ohio,"Stark (county)",N/A,0,1,N/A
+1585454,"January 1, 2020",Florida,"Saint Petersburg","1 Gandy Blvd N",0,1,N/A
+1586682,"January 1, 2020",Illinois,Aurora,"1600 block of Fredericksburg Ln",0,1,N/A
+1587594,"January 1, 2020",Indiana,Jeffersonville,"1500 block of E 10th St",0,1,N/A
+1585872,"January 1, 2020",Maryland,Frederick,"300 block of Fieldpointe Dr",0,1,N/A
+1585315,"January 1, 2020",Florida,"Delray Beach","E Atlantic Ave and NE 1st Ave",0,1,N/A
+1587447,"January 1, 2020",Georgia,Summerville,"11277 Hwy 27",0,1,N/A
+1586335,"January 1, 2020",Mississippi,Jackson,"386 Raymond Rd",0,1,N/A
+1586162,"January 1, 2020",Alabama,Cottondale,"6000 block of Old Birmingham Highway",0,1,N/A
+1587350,"January 1, 2020",Texas,Brownsville,"2400 Delia Ave",0,1,N/A
+1587340,"January 1, 2020",Texas,Brownsville,"7313 Villa Pancho Dr",0,1,N/A
+1586760,"January 1, 2020",Missouri,"Cape Girardeau","511 N Kingshighway St",0,1,N/A
+1584998,"December 31, 2019",Tennessee,Memphis,"4400 block of Castle Heights Dr",0,1,N/A
+1586912,"December 31, 2019",Michigan,Kalamazoo,"1100 block of Hays Park Ave",0,1,N/A
+1585976,"December 31, 2019",Michigan,Detroit,"8900 block of Whitcomb",0,1,N/A
+1585345,"December 31, 2019",Arizona,Phoenix,"N 31st Ave and W Roosevelt St",0,1,N/A
+1586646,"December 31, 2019",California,"Tehachapi (Bear Valley Springs)","29500 N Lower Valley Road",0,1,N/A
+1584355,"December 30, 2019",Florida,Ocala,"2000 block of SW Seventh Place",0,1,N/A
+1583616,"December 29, 2019",Tennessee,Memphis,"2818 Coleman Rd",0,1,N/A
+1587630,"December 29, 2019",Tennessee,Martin,"Billingsby Rd",0,1,N/A
+1583024,"December 29, 2019",Missouri,Springfield,"333 S John Q Hammons Pkwy",0,1,N/A
+1581984,"December 28, 2019",Arizona,"Prescott Valley","7900 block of Prickly Pear Path",0,1,N/A
+1591745,"December 28, 2019",Ohio,"Cleveland (Brooklyn)","Rockland Dr",0,1,N/A
+1581624,"December 28, 2019",Tennessee,Memphis,"800 block of Hudson St",0,1,N/A
+1582603,"December 28, 2019","South Carolina",Greenwood,"1508 Parkway",0,1,N/A
+1582575,"December 28, 2019",Georgia,Lagrange,"Union St and Dix St",0,1,N/A
+1582044,"December 28, 2019",Illinois,"Oak Forest","5900 W 159th St",0,1,N/A
+1582731,"December 28, 2019",Virginia,Lynchburg,"621 Gum St",1,1,N/A
+1582160,"December 28, 2019",Illinois,Chicago,"200 block of E 136th St",0,1,N/A
+1582010,"December 28, 2019",Alabama,Tuscaloosa,"6701 Alabama Hwy 69 S",0,1,N/A
+1580674,"December 27, 2019",Florida,Jacksonville,"1414 Dakar St",0,1,N/A
+1581722,"December 27, 2019","North Carolina",Raleigh,"1200 block of S East St",0,1,N/A
+1581563,"December 27, 2019",Michigan,Saginaw,"4787 Fashion Square Mall",0,1,N/A
+1581199,"December 27, 2019",Utah,Roy,"2200 W 4500 South",0,1,N/A
+1581724,"December 27, 2019",Maryland,"Saint Inigoes","Mount Zion Church Rd",0,1,N/A
+1584401,"December 27, 2019",Maryland,Flintstone,"Town Creek Rd",0,1,N/A
+1586160,"December 26, 2019",Alabama,Mobile,"1550 Government St",0,1,N/A
+1580342,"December 26, 2019",Alabama,Florence,"113 Cox Creek Pkwy S",0,1,N/A
+1580494,"December 26, 2019",Texas,Houston,"800 block of Darbydale Crossing Ln",0,1,N/A
+1579448,"December 25, 2019",Illinois,Chicago,"3500 block of S Washtenaw Ave",0,2,N/A
+1582619,"December 25, 2019",Pennsylvania,Bellefonte,"200 block of S Main St",0,1,N/A
+1580276,"December 25, 2019",Pennsylvania,Johnstown,"200 block of Dupont St",0,1,N/A
+1579726,"December 25, 2019",Ohio,Cincinnati,"1000 block of Gilsey Ave",0,1,N/A
+1579962,"December 25, 2019",Nevada,"Las Vegas","N Sloan Ln and Las Vegas Blvd N",0,2,N/A
+1579753,"December 23, 2019","New York",Syracuse,"100 block of Lakeview Ave",0,2,N/A
+1578832,"December 23, 2019",Ohio,"Franklin (Carlisle)","300 block of Martz-Paulin Rd",0,1,N/A
+1577878,"December 22, 2019",Virginia,Richmond,"3700 block of Broad Rock Rd",0,1,N/A
+1578388,"December 22, 2019",Utah,Ogden,"2900 Pingree Ave",0,1,N/A
+1578404,"December 22, 2019","North Carolina",Raleigh,N/A,0,1,N/A
+1578016,"December 22, 2019",Arkansas,"West Memphis","800 block of Walnut Dr",0,1,N/A
+1578357,"December 22, 2019",Michigan,"Free Soil","E Hoague Rd",0,1,N/A
+1578055,"December 22, 2019",Florida,Hernando,"N Blue Bream Terrace",0,1,N/A
+1579183,"December 21, 2019",Minnesota,"Crow Wing (county)",N/A,0,1,N/A
+1577347,"December 21, 2019",Louisiana,"Lake Charles","Brentwood St and Tennessee St",1,0,N/A
+1577165,"December 21, 2019","District of Columbia",Washington,"1400 block of Madison St NW",0,2,N/A
+1576598,"December 20, 2019",Florida,"Fort Lauderdale (Davie)","NE 116th St and 12th Ave",0,1,N/A
+1575947,"December 19, 2019",Missouri,"Cape Girardeau","1600 block of Lexington Ave",0,1,N/A
+1576867,"December 19, 2019",Texas,"Eagle Pass",N/A,1,1,N/A
+1576038,"December 19, 2019",Pennsylvania,Erie,"1600 block of German St",0,1,N/A
+1576031,"December 19, 2019",Pennsylvania,Philadelphia,"7100 block of Ditman St",0,1,N/A
+1575784,"December 19, 2019",Tennessee,Memphis,N/A,0,1,N/A
+1576742,"December 18, 2019",Pennsylvania,Lancaster,"500 block of Plum St",0,1,N/A
+1575671,"December 18, 2019",Kentucky,Somerset,"US-27 and Rural Development Dr",0,1,N/A
+1575325,"December 18, 2019",Texas,Dallas,"3502 Simpson Stuart Rd",1,2,N/A
+1575982,"December 18, 2019",Texas,"College Station","2045 Jones Butler Rd",0,1,N/A
+1574283,"December 16, 2019",Michigan,"Benton Harbor","1630 Mall Dr",0,1,N/A
+1572818,"December 16, 2019",Nevada,"Las Vegas","2300 block of Exeter Dr",1,1,N/A
+1572962,"December 15, 2019",Michigan,Pontiac,"90 block of Cadillac St",0,1,N/A
+1572180,"December 15, 2019",Illinois,Chicago,"500 block of W 62nd St",0,1,N/A
+1573887,"December 15, 2019","North Carolina",Chocowinity,"NC-33 E",0,1,N/A
+1571814,"December 14, 2019",Michigan,Lansing,"900 Long Blvd",0,1,N/A
+1572728,"December 14, 2019",Florida,Hudson,N/A,0,1,N/A
+1572606,"December 14, 2019",Delaware,Wilmington,"100 block of N Harrison St",0,1,N/A
+1572632,"December 14, 2019",Pennsylvania,"New Ringgold",PA-309,0,1,N/A
+1571293,"December 13, 2019",Kentucky,Hopkinsville,"2100 block of Butler Rd",0,1,N/A
+1571413,"December 13, 2019",Virginia,Norfolk,"322 Shirley Ave",0,1,N/A
+1570390,"December 12, 2019",Illinois,Chicago,"3353 W 13th St",0,2,N/A
+1571069,"December 12, 2019",Wisconsin,Menasha,"300 block of Oak St",0,1,N/A
+1570451,"December 12, 2019",Florida,"Fort Lauderdale","2510 W Broward Blvd",0,1,N/A
+1569318,"December 11, 2019",Virginia,Midlothian,"Charter Colony Pkwy and Midlothian Turnpike",0,2,N/A
+1569614,"December 11, 2019",Ohio,Dayton,"Richmond Ave",0,1,N/A
+1571151,"December 11, 2019","New York",Chateaugay,"County Route 33",0,1,N/A
+1569681,"December 11, 2019",Tennessee,Hixson,"1200 block of Lower Mill Rd",0,1,N/A
+1569698,"December 11, 2019",Wisconsin,Milwaukee,"58th St and Helena St",0,1,N/A
+1569166,"December 11, 2019",Texas,"San Antonio","12200 SE Loop 410 Access Rd",0,1,N/A
+1571860,"December 11, 2019",Maryland,"White Marsh","50 block of Rosecrans Pl",0,1,N/A
+1570842,"December 11, 2019","South Carolina",Ladson,"Frankie Ln",0,1,N/A
+1571515,"December 11, 2019",Colorado,Pueblo,"2600 block of Lambert Ave",0,1,N/A
+1568676,"December 10, 2019",Texas,Houston,"7700 block of Corporate Dr",0,1,N/A
+1570092,"December 10, 2019",Kansas,Piedmont,"200 block of F 75 Rd",0,1,N/A
+1569908,"December 10, 2019","North Dakota",Wahpeton,"101 East Dr",0,1,N/A
+1570096,"December 9, 2019",Kansas,"Graham (county)",N/A,0,1,N/A
+1568793,"December 9, 2019",Texas,Channelview,"Rancho Grande Dr",0,1,N/A
+1567168,"December 8, 2019",Nevada,"Las Vegas","5781 Shinyleaf Cir",1,1,N/A
+1569652,"December 8, 2019",California,"San Bernardino (Muscoy)","3300 block of Otono Court",0,1,N/A
+1569555,"December 8, 2019",Iowa,Logan,N/A,0,1,N/A
+1567548,"December 8, 2019",Louisiana,"New Orleans","2100 block of North Rocheblave St",1,1,N/A
+1568002,"December 8, 2019",Ohio,Cleveland,"E 116th St and MLK Dr",0,1,N/A
+1567088,"December 7, 2019",Arizona,Phoenix,"67th Ave and Van Buren St",0,1,N/A
+1617064,"December 7, 2019","New York","Chautauqua (county)",N/A,0,1,N/A
+1566797,"December 7, 2019",Florida,Titusville,"SR 407",0,1,N/A
+1566846,"December 7, 2019",Ohio,Columbus,"Alum Creek Dr and E Livingston Ave",0,1,N/A
+1567973,"December 6, 2019",Arkansas,Conway,N/A,0,1,N/A
+1565759,"December 6, 2019",Massachusetts,Plympton,"153 Center St",0,1,N/A
+1565958,"December 6, 2019",Pennsylvania,Easton,"1011 George St",0,1,N/A
+1566471,"December 6, 2019",California,Brentwood,"5000 Balfour Rd",0,1,N/A
+1568134,"December 6, 2019",Illinois,Springfield,"2112 S MacArthur Blvd",0,1,N/A
+1570865,"December 6, 2019",Wyoming,Jackson,US-89,0,1,N/A
+1564946,"December 5, 2019",Michigan,"Redford Charter Township","Salem St and Schoolcraft",0,1,N/A
+1564921,"December 5, 2019",Georgia,"Stone Mountain","5300 block of Kelleys Creek Dr",1,0,N/A
+1565778,"December 5, 2019",Wisconsin,Milwaukee,"4700 block of W Center St",0,1,N/A
+1565669,"December 5, 2019",Michigan,Detroit,"1400 block of Times Square",0,1,N/A
+1567031,"December 5, 2019",Alaska,Wasilla,"Hollywood Rd and Sylvan Ln",0,1,N/A
+1564263,"December 4, 2019","South Carolina",Elloree,N/A,0,1,N/A
+1564966,"December 4, 2019",Florida,Miami,"NW 66th St and NW 22nd Ave",0,1,N/A
+1564015,"December 4, 2019",Massachusetts,Wareham,"Charlotte Furnace Road",0,1,N/A
+1564144,"December 3, 2019",Michigan,Lansing,"5500 block of S Martin Luther King",0,1,N/A
+1563492,"December 3, 2019",Texas,Houston,"17000 Aldine Westfield Rd",0,1,N/A
+1563919,"December 3, 2019",Florida,Jacksonville,"2400 block of Jernigan Rd",0,1,N/A
+1563351,"December 3, 2019",Indiana,Frankfort,"900 block of N John St",0,1,N/A
+1563041,"December 2, 2019",Pennsylvania,York,"455 Town Center Dr",1,1,N/A
+1563168,"December 2, 2019",Colorado,"Colorado Springs","300 block of E Brookside St",0,1,N/A
+1563135,"December 2, 2019",Florida,"Cape Coral","1509 NE 7th Ave",0,1,N/A
+1563707,"December 2, 2019",Pennsylvania,Bristol,"Lincoln Ave",0,1,N/A
+1562851,"December 1, 2019",Michigan,Detroit,"Winthrop St and Schoolcraft",0,1,N/A
+1617058,"December 1, 2019","New York","Wyoming (county)",N/A,0,1,N/A
+1562092,"December 1, 2019","New York",Spafford,"Nunnery Rd",0,1,N/A
+1562043,"December 1, 2019",Louisiana,"Cotton Valley","116 Hawthorne Loop",2,3,N/A
+1562462,"December 1, 2019",Florida,Sarasota,"3000 block of McCloud Cir",0,1,N/A
+1561734,"December 1, 2019",Louisiana,"New Orleans","700 block of Canal St",0,12,N/A
+1564261,"November 30, 2019","South Carolina","Holly Hill",N/A,0,1,N/A
+1562710,"November 30, 2019",Virginia,Onley,"26036 Lankford Hwy",0,1,N/A
+1561893,"November 30, 2019",Illinois,Chicago,"5300 S Paulina St",0,1,N/A
+1561690,"November 29, 2019",Colorado,"Colorado Springs","500 block of Pluto Dr",0,1,N/A
+1581595,"November 28, 2019",Minnesota,"Minneapolis (Fridley)","4700 block of NE 2nd St",0,1,N/A
+1560061,"November 28, 2019",Illinois,Chicago,"46 W 114th St",0,1,N/A
+1559727,"November 27, 2019",Texas,Lubbock,"2400 block of 36th St",0,1,N/A
+1562761,"November 27, 2019",Mississippi,Meridian,"3100 block of Valley St",0,1,N/A
+1560439,"November 27, 2019",Michigan,"New Hudson","60501 Grand River Ave",0,1,N/A
+1559234,"November 27, 2019",Pennsylvania,Philadelphia,"5357 Thomas Ave",0,2,N/A
+1559237,"November 27, 2019",Indiana,Indianapolis,"3813 English Ave",0,1,N/A
+1559093,"November 27, 2019",Virginia,Sandston,"Algiers Dr",0,1,N/A
+1559848,"November 27, 2019",Florida,Molino,"Sunshine Ridge Ct",0,1,N/A
+1559761,"November 27, 2019",Virginia,"Richmond (North Chesterfield)","8600 block of Branchs Woods Ln",0,1,N/A
+1558816,"November 26, 2019",Texas,Laredo,"100 block of Knoll Ave",0,3,N/A
+1558664,"November 26, 2019",Alabama,Saraland,"202 Saraland Blvd S",0,1,N/A
+1559049,"November 26, 2019",Tennessee,Memphis,"Castalia St and Livewell Cir",0,1,N/A
+1560123,"November 26, 2019",Illinois,"Chicago Heights (Ford Heights)","1100 block of Seeley Ave",1,2,N/A
+1559864,"November 26, 2019","North Dakota",Fargo,"3800 block of 50th St",0,1,N/A
+1558821,"November 26, 2019",Texas,Austin,"1200 block of E St Johns Ave",0,1,N/A
+1562226,"November 25, 2019",Georgia,Enigma,"100 block of Enigma Turner Church Rd",0,1,N/A
+1557908,"November 25, 2019",California,Oakland,"3356 Grand Ave",0,1,N/A
+1557630,"November 25, 2019",Arizona,"Sierra Estrella Ranchos","S El Mirage Rd and W Southern Ave",0,1,N/A
+1559808,"November 25, 2019",Arkansas,"Lonoke (county)",N/A,0,1,N/A
+1558657,"November 25, 2019",Michigan,Dowagiac,"508 Vineyard Place Dr",0,1,N/A
+1558712,"November 24, 2019",Illinois,Barry,"E 2350th St and County Rd 200 N",0,1,N/A
+1557895,"November 24, 2019",Minnesota,"North Branch","19000 block of I-95 NE",0,2,N/A
+1556898,"November 24, 2019",Tennessee,Knoxville,"8211 Andersonville Pike",0,1,N/A
+1556751,"November 24, 2019",Illinois,Chicago,"6108 S Carpenter St",0,2,N/A
+1556936,"November 24, 2019",Wisconsin,Minong,"Sleepy Eye Rd and Nancy Lake Rd",0,1,N/A
+1558500,"November 24, 2019",Illinois,Peoria,"1900 block N Knoxville Ave",0,1,N/A
+1578481,"November 24, 2019",Virginia,"Rocky Mount",N/A,0,1,N/A
+1557256,"November 24, 2019",California,Stockton,"2809 W March Ln",0,1,N/A
+1571023,"November 24, 2019",Florida,Tampa,"116 E Fletcher Ave",0,1,N/A
+1556994,"November 24, 2019",Utah,Sandy,"9256 S and 1480 E",0,1,N/A
+1558064,"November 24, 2019","South Carolina",Pendleton,"State Rd S-39-150",0,1,N/A
+1566159,"November 23, 2019",Utah,"Mount Pleasant",US-89,0,1,N/A
+1556456,"November 23, 2019",Minnesota,"Saint Paul","800 block of Blair Ave",0,1,N/A
+1556946,"November 23, 2019",Wisconsin,"Fond Du Lac (county)",N/A,0,1,N/A
+1556943,"November 23, 2019",Wisconsin,"Marathon (county)",N/A,0,1,N/A
+1556939,"November 23, 2019",Wisconsin,"Oneida (county)",N/A,0,1,N/A
+1556886,"November 23, 2019",Michigan,Warren,"Murphy Ct",0,1,N/A
+1557776,"November 23, 2019",Washington,Seattle,N/A,0,1,N/A
+1556318,"November 23, 2019",Texas,"Bexar (county)",N/A,0,1,N/A
+1571097,"November 23, 2019","New Hampshire","West Lebanon","261 N Plainfield Rd",0,1,N/A
+1556951,"November 23, 2019","New Mexico",Albuquerque,"757 98th St SW",0,3,N/A
+1555294,"November 22, 2019",Oklahoma,Tulsa,"7803 S Wheeling Ave",0,1,N/A
+1555273,"November 22, 2019",Indiana,"La Porte (Laporte)","200 block of I St",0,1,N/A
+1556302,"November 22, 2019",Texas,Edinburg,"1300 block of N Doolittle Rd",0,1,N/A
+1555786,"November 22, 2019",Florida,Jacksonville,"4100 block of Philips Hwy",0,1,N/A
+1558849,"November 22, 2019",Mississippi,Moselle,"329 Moselle-Seminary Rd",0,1,N/A
+1555003,"November 21, 2019",Mississippi,Jackson,"3900 block of Hanging Moss Rd",0,1,N/A
+1554896,"November 20, 2019",Florida,"Key West (Stock Island)","5610 Overseas Hwy",0,1,N/A
+1554026,"November 20, 2019",Michigan,Lansing,"2558 E Jolly Rd",0,1,N/A
+1554474,"November 20, 2019",Wisconsin,Madison,"2800 block of Coolidge St",0,1,N/A
+1554287,"November 20, 2019",California,Vacaville,"1313 Callen St",0,1,N/A
+1554188,"November 20, 2019",Texas,Dallas,"12121 Abrams Rd",1,1,N/A
+1554636,"November 20, 2019",Virginia,Suffolk,"600 block of County St",0,1,N/A
+1553105,"November 19, 2019",Illinois,Chicago,"4318 W Irving Park Rd",1,2,N/A
+1555624,"November 19, 2019",Michigan,"Lincoln Park","Dix Hwy and Capital Ave",0,1,N/A
+1553692,"November 19, 2019",Indiana,Evansville,"S Weinbach Ave and Conlin Ave",0,1,N/A
+1619758,"November 19, 2019","New York","Glens Falls","Henry St",0,1,N/A
+1553704,"November 18, 2019",Florida,Jacksonville,"1200 block of McConihe St",0,1,N/A
+1552815,"November 17, 2019","North Carolina",Apex,"3921 Old Holly Springs Apex Rd",0,1,N/A
+1552021,"November 17, 2019",Indiana,Merrillville,"2040 E 84th St",0,1,N/A
+1551921,"November 17, 2019",California,Oakland,"1200 block of Wood St",0,1,N/A
+1550986,"November 17, 2019",Indiana,"La Porte (Laporte)","5344 Hupp Rd",0,1,N/A
+1551772,"November 17, 2019",Florida,"Daytona Beach","507 Jean St",0,1,N/A
+1550932,"November 17, 2019",Arizona,Phoenix,"2200 block of E Taylor St",0,1,N/A
+1551449,"November 16, 2019",Missouri,Sturgeon,"US-63 and MO-124",0,1,N/A
+1551302,"November 16, 2019",Texas,Dallas,"8600 block of Tonawanda Dr",0,1,N/A
+1551193,"November 16, 2019",Kansas,Topeka,"300 block of SW Harrison St",0,1,N/A
+1551879,"November 16, 2019",Texas,Killeen,"Mountain Creek Rd",0,2,N/A
+1550420,"November 16, 2019","South Carolina",Columbia,"1113 Recreation Dr",0,1,N/A
+1550826,"November 16, 2019",Michigan,Lowell,"Bell Rd and W Grand River Ave",0,1,N/A
+1550742,"November 15, 2019","New York",Albany,"300 block of Second St",0,1,N/A
+1550499,"November 15, 2019",Texas,"Fort Worth","Bonita Dr and Michigan Ave",0,1,N/A
+1550312,"November 15, 2019","North Dakota",Fargo,"201 5th St N",0,1,N/A
+1550035,"November 14, 2019",Texas,"San Antonio","8300 Villa Dr",0,2,N/A
+1548839,"November 14, 2019",Pennsylvania,Homestead,"E 16th Ave and Maple St",0,1,N/A
+1549478,"November 14, 2019",Ohio,Columbus,"1711 Penworth Dr",0,1,N/A
+1549421,"November 14, 2019","South Carolina",Westminster,"Rochester Rd and W Oak Highway",0,1,N/A
+1549242,"November 13, 2019",Michigan,"Battle Creek","100 block of Battle Creek Ave",0,1,N/A
+1548953,"November 13, 2019",Kentucky,Bardstown,"New Haven Rd",0,1,N/A
+1547198,"November 12, 2019",Florida,Miami,"12101 Biscayne Blvd",0,2,N/A
+1547789,"November 12, 2019",Washington,Seattle,"Rainier Ave S and S Henderson St",0,1,N/A
+1546923,"November 11, 2019",Oklahoma,Tulsa,N/A,0,1,N/A
+1553971,"November 11, 2019",Texas,Nacogdoches,"800 block of Oak Hill Plaza Dr",0,1,N/A
+1547117,"November 11, 2019",Florida,Jacksonville,"7200 Block of Zapata Dr",0,1,N/A
+1547094,"November 10, 2019",Nebraska,Lincoln,"S 40th St and South St",0,1,N/A
+1546051,"November 10, 2019",Illinois,Chicago,"2100 block of S Albany Ave",1,2,N/A
+1546044,"November 10, 2019",Wisconsin,Milwaukee,"N 13th St and W Ring St",0,1,N/A
+1545663,"November 9, 2019",Alabama,Birmingham,"1500 block of Arthur Shores Dr",0,1,N/A
+1545613,"November 9, 2019",Texas,Odessa,"15000 block of S Quartz Ave",0,1,N/A
+1547668,"November 9, 2019",Montana,Billings,"1600 Avenue D",0,1,N/A
+1545621,"November 9, 2019",Texas,"San Antonio",N/A,0,1,N/A
+1546257,"November 9, 2019",Colorado,"Colorado Springs","1400 block of Flycatcher Ln",0,1,N/A
+1547793,"November 9, 2019",Missouri,"O Fallon","2000 block of Collier Blvd",0,1,N/A
+1545693,"November 9, 2019",Missouri,"Saint Louis","18 S County Center Way",0,1,N/A
+1544824,"November 8, 2019",Illinois,Springfield,"N 11th St and E Carpenter St",0,1,N/A
+1545769,"November 8, 2019",Louisiana,"New Orleans","2100 block of N Rocheblave St",0,1,N/A
+1548609,"November 8, 2019",Michigan,Mayville,"Kelch Rd",0,1,N/A
+1545344,"November 7, 2019",Vermont,"East Montpelier","US 2",0,1,N/A
+1543849,"November 6, 2019",Pennsylvania,Altoona,"800 block of 2nd Ave",0,1,N/A
+1543955,"November 6, 2019",Michigan,Detroit,"7800 block of Helen St",0,1,N/A
+1542930,"November 6, 2019",Pennsylvania,Philadelphia,"2000 block of Margaret St",0,1,N/A
+1542989,"November 6, 2019",Tennessee,Antioch,"Leo Ln",0,1,N/A
+1543420,"November 6, 2019",Alabama,Mulga,"1st Ave and 2nd St",0,1,N/A
+1543145,"November 5, 2019","South Carolina",Gaffney,"Kendrick St",0,1,N/A
+1546745,"November 5, 2019",Utah,Logan,N/A,0,1,N/A
+1542105,"November 5, 2019",Florida,"Boynton Beach","NE Third St",0,1,N/A
+1543439,"November 5, 2019","South Carolina","Round O","400 block of Fleming Rd",0,1,N/A
+1541703,"November 4, 2019",Pennsylvania,Windber,"202 21st St",0,2,N/A

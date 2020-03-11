@@ -1,0 +1,45 @@
+US_State,Num_Killed,Num_Injured,lawtotal
+Texas,68,6,461
+Florida,31,3,564
+Ohio,27,2,485
+Mississippi,24,7,218
+Georgia,24,1,287
+Alabama,23,6,335
+Tennessee,22,0,505
+South Carolina,20,1,425
+Missouri,20,0,328
+Pennsylvania,19,1,845
+Louisiana,19,3,261
+Illinois,18,6,1542
+Arizona,16,0,325
+California,16,0,2298
+Virginia,15,3,355
+New York,14,1,1514
+Indiana,12,2,277
+Kentucky,10,0,186
+Michigan,10,1,633
+Oklahoma,9,0,269
+North Carolina,9,0,696
+Wisconsin,9,0,596
+Washington,7,7,686
+Utah,7,0,322
+Arkansas,7,0,337
+West Virginia,6,0,482
+Kansas,6,0,299
+Maryland,5,0,1314
+Iowa,4,0,554
+Montana,4,0,116
+New Jersey,4,0,1607
+Oregon,4,0,607
+Colorado,3,0,456
+Maine,3,0,268
+New Mexico,3,0,260
+Massachusetts,2,0,2434
+Idaho,2,0,156
+Alaska,2,0,170
+Connecticut,1,0,1768
+Rhode Island,1,1,1172
+New Hampshire,1,0,266
+Nevada,1,0,263
+Minnesota,1,0,831
+Nebraska,1,0,579

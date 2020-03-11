@@ -1,0 +1,501 @@
+Incident_ID,Incident_Date,US_State,CityorCounty,Num_Killed,Num_Injured
+1634779,"March 5, 2020",South Carolina,Mountain Rest,1,0
+1634921,"March 5, 2020",Pennsylvania,York,1,0
+1633866,"March 4, 2020",Alabama,Slocomb,1,0
+1634317,"March 4, 2020",New Hampshire,Warner,1,0
+1632459,"March 2, 2020",Kansas,Wichita,1,0
+1633167,"March 2, 2020",Virginia,Chesapeake,1,0
+1632058,"March 1, 2020",Texas,Houston,1,0
+1632100,"March 1, 2020",New Mexico,Albuquerque,1,0
+1631568,"February 29, 2020",Mississippi,Biloxi,1,0
+1631336,"February 28, 2020",West Virginia,Fairmont,1,0
+1630676,"February 27, 2020",Missouri,Hazelwood,1,0
+1630393,"February 27, 2020",Pennsylvania,Tamaqua,1,0
+1630175,"February 26, 2020",Texas,Joaquin,1,0
+1629042,"February 25, 2020",Illinois,Chicago,1,4
+1629234,"February 25, 2020",Florida,Titusville,1,1
+1629261,"February 25, 2020",Florida,Jacksonville,1,0
+1628048,"February 23, 2020",Texas,Llano,1,0
+1627699,"February 23, 2020",Tennessee,Memphis,1,0
+1627025,"February 22, 2020",Arizona,Phoenix,1,0
+1626860,"February 21, 2020",Florida,Kissimmee,1,0
+1625892,"February 20, 2020",Florida,Brooksville,1,0
+1625658,"February 20, 2020",Arkansas,Texarkana,1,0
+1622792,"February 16, 2020",Oklahoma,Oklahoma City (Midwest City),1,0
+1623513,"February 16, 2020",Ohio,Toledo,1,0
+1623097,"February 16, 2020",Kentucky,Dunmor,1,0
+1624470,"February 16, 2020",Georgia,Lexington,2,0
+1622731,"February 16, 2020",Tennessee,Memphis,1,0
+1621936,"February 14, 2020",Georgia,Lagrange,1,1
+1620904,"February 13, 2020",Florida,Leesburg,1,0
+1622113,"February 13, 2020",Ohio,Youngstown (Boardman),1,0
+1620073,"February 12, 2020",New York,New York (Manhattan),1,0
+1620311,"February 12, 2020",Nebraska,Omaha,1,0
+1619781,"February 12, 2020",District of Columbia,Washington,1,0
+1619553,"February 9, 2020",Louisiana,Chalmette,1,0
+1617744,"February 9, 2020",Pennsylvania,Pittsburgh,1,0
+1616601,"February 7, 2020",New Jersey,Browns Mills,1,0
+1616774,"February 7, 2020",Louisiana,Shreveport,1,0
+1615948,"February 6, 2020",South Carolina,Pendleton,1,1
+1616720,"February 6, 2020",California,Davis,1,0
+1614953,"February 4, 2020",Michigan,Detroit,1,0
+1613176,"February 2, 2020",Ohio,Cincinnati,1,0
+1613427,"February 2, 2020",South Carolina,Myrtle Beach,1,0
+1612411,"February 2, 2020",Alabama,Harvest,1,0
+1611362,"February 1, 2020",Ohio,Ravenna,1,0
+1611651,"February 1, 2020",Tennessee,Jackson,1,0
+1612699,"February 1, 2020",Ohio,Hinckley,1,0
+1611420,"February 1, 2020",Virginia,Richmond,1,0
+1611369,"January 31, 2020",Texas,Clyde,1,0
+1610400,"January 31, 2020",Illinois,Dolton,1,0
+1609445,"January 30, 2020",Pennsylvania,Philadelphia,1,0
+1609952,"January 30, 2020",Alabama,Mobile,1,0
+1608944,"January 28, 2020",Washington,Spokane,1,0
+1607335,"January 26, 2020",Ohio,Akron,1,0
+1605978,"January 26, 2020",Ohio,Pataskala,1,0
+1605571,"January 25, 2020",Ohio,Newark,1,0
+1606178,"January 25, 2020",Alabama,Irvington,1,0
+1605309,"January 25, 2020",Louisiana,Baton Rouge,1,0
+1604701,"January 23, 2020",Arizona,Dewey,1,0
+1603241,"January 22, 2020",Washington,Seattle,1,7
+1603395,"January 22, 2020",Texas,San Antonio,1,0
+1604228,"January 22, 2020",Texas,Longview,1,0
+1603720,"January 22, 2020",Louisiana,Leonville,1,0
+1604307,"January 22, 2020",Georgia,Macon,1,0
+1602038,"January 20, 2020",Wisconsin,Milwaukee,1,0
+1600952,"January 20, 2020",North Carolina,Concord,1,0
+1601442,"January 19, 2020",Indiana,Bloomington,1,1
+1602470,"January 17, 2020",California,Dorris,1,0
+1600521,"January 17, 2020",Georgia,Columbus,1,0
+1598980,"January 17, 2020",Texas,San Antonio,1,0
+1596276,"January 14, 2020",Texas,Bellaire,1,0
+1596266,"January 12, 2020",Florida,Warrington,1,0
+1594264,"January 11, 2020",North Carolina,Sanford,1,0
+1592355,"January 8, 2020",Kentucky,Lexington,1,0
+1589132,"January 5, 2020",Missouri,Saint Louis,1,0
+1588858,"January 4, 2020",Tennessee,Cordova,1,0
+1588530,"January 3, 2020",Maryland,Park Hall,1,0
+1585484,"January 1, 2020",Virginia,Richmond,1,0
+1598354,"January 1, 2020",Tennessee,Hermitage,1,0
+1585741,"January 1, 2020",Ohio,Cleveland,1,0
+1586238,"January 1, 2020",Maryland,Hyattsville (Landover Hills),1,0
+1585419,"January 1, 2020",Texas,Houston,1,0
+1585503,"January 1, 2020",Virginia,Richmond,1,0
+1586315,"January 1, 2020",South Carolina,Walterboro,2,0
+1585456,"December 31, 2019",Tennessee,Savannah,1,0
+1583856,"December 29, 2019",Oklahoma,Tulsa,1,0
+1582882,"December 28, 2019",Missouri,Saint Louis,1,0
+1580445,"December 25, 2019",Texas,Buna,1,0
+1580278,"December 24, 2019",Alabama,Monroeville,1,0
+1577876,"December 22, 2019",Texas,Dallas,1,0
+1577156,"December 21, 2019",Texas,San Antonio,1,0
+1577786,"December 21, 2019",California,San Diego,1,0
+1578303,"December 21, 2019",California,Redding,1,0
+1577046,"December 20, 2019",Mississippi,Waynesboro,1,6
+1575830,"December 19, 2019",Georgia,Cairo,1,0
+1577363,"December 19, 2019",Texas,Austin,1,0
+1576476,"December 18, 2019",Maine,Medway,1,0
+1575325,"December 18, 2019",Texas,Dallas,1,2
+1572059,"December 14, 2019",Ohio,Sandusky,1,0
+1572029,"December 14, 2019",Ohio,Pataskala,1,0
+1573283,"December 13, 2019",Illinois,Crest Hill,1,0
+1571392,"December 13, 2019",Florida,Lithia,1,0
+1599014,"December 13, 2019",California,San Jose,1,0
+1571231,"December 13, 2019",Arizona,Scottsdale,1,0
+1574918,"December 12, 2019",Pennsylvania,Sugar Grove,1,0
+1570510,"December 12, 2019",Tennessee,Nashville,1,0
+1570654,"December 11, 2019",Florida,Naples,1,0
+1571092,"December 10, 2019",Texas,Houston,1,0
+1567437,"December 8, 2019",Tennessee,Memphis,1,0
+1566568,"December 7, 2019",Alabama,Birmingham,1,0
+1566963,"December 7, 2019",New York,Brooklyn,1,0
+1565292,"December 5, 2019",Illinois,Decatur,1,0
+1564937,"December 5, 2019",Florida,Coral Gables,4,1
+1566391,"December 2, 2019",Arizona,Young,1,0
+1563677,"December 2, 2019",Ohio,Lorain,1,0
+1563712,"December 2, 2019",Pennsylvania,Tyrone,1,0
+1563695,"December 1, 2019",Pennsylvania,Philadelphia,1,0
+1562043,"December 1, 2019",Louisiana,Cotton Valley,2,3
+1562990,"December 1, 2019",Tennessee,Shelbyville,1,0
+1561428,"November 29, 2019",Tennessee,Memphis,1,0
+1561284,"November 29, 2019",Texas,Abilene,1,0
+1560557,"November 28, 2019",Maine,Van Buren,1,0
+1560553,"November 28, 2019",South Carolina,Springfield,1,0
+1560369,"November 28, 2019",Virginia,Hopewell,1,0
+1559714,"November 27, 2019",Texas,Houston,1,0
+1559859,"November 27, 2019",California,Fresno,1,0
+1559758,"November 27, 2019",Texas,Houston,1,0
+1559906,"November 26, 2019",Indiana,Marion,1,0
+1558906,"November 25, 2019",Florida,Homestead,2,0
+1558197,"November 25, 2019",Florida,Saint Petersburg,1,0
+1558811,"November 25, 2019",Texas,Dallas,1,0
+1562185,"November 23, 2019",Pennsylvania,Conneaut Lake,1,0
+1556629,"November 23, 2019",Illinois,Peoria,1,2
+1556110,"November 23, 2019",Virginia,Waynesboro,1,0
+1556829,"November 23, 2019",Texas,Fort Worth,1,0
+1555823,"November 22, 2019",Georgia,Lithonia,1,0
+1555673,"November 22, 2019",Mississippi,Jackson,1,0
+1554251,"November 20, 2019",California,Los Angeles,1,0
+1553904,"November 20, 2019",Missouri,Saint Louis,1,0
+1553858,"November 19, 2019",Mississippi,Jackson,1,0
+1553173,"November 19, 2019",Texas,San Antonio,1,0
+1552316,"November 18, 2019",Ohio,Steubenville (Wintersville),1,0
+1551972,"November 17, 2019",Missouri,Baring,1,0
+1551411,"November 17, 2019",New York,Frankfort,1,0
+1553489,"November 17, 2019",Pennsylvania,Union City,1,0
+1551098,"November 16, 2019",South Carolina,Pickens,1,0
+1550315,"November 15, 2019",South Carolina,Lancaster,1,0
+1550449,"November 15, 2019",Indiana,Elkhart,1,0
+1550200,"November 14, 2019",Washington,Marysville,1,0
+1548518,"November 13, 2019",Arkansas,Fort Smith,1,0
+1547956,"November 12, 2019",New Mexico,Albuquerque,1,0
+1546480,"November 11, 2019",Pennsylvania,Philadelphia,1,0
+1547323,"November 11, 2019",South Carolina,Greenwood,1,0
+1547735,"November 9, 2019",Kansas,Arkansas City,1,0
+1545423,"November 8, 2019",Tennessee,Crossville,1,0
+1544990,"November 8, 2019",Florida,Miami (Cutler Bay),1,0
+1543208,"November 6, 2019",Minnesota,Saint Paul,1,0
+1543478,"November 6, 2019",Illinois,Chicago,1,0
+1543427,"November 5, 2019",Alaska,Anchorage,1,0
+1542476,"November 4, 2019",Missouri,Warrensburg,1,0
+1541266,"November 3, 2019",Florida,Indiantown,1,0
+1541309,"November 2, 2019",New York,Penfield,1,0
+1540873,"November 2, 2019",Texas,Cedar Hill,1,0
+1539793,"November 1, 2019",Kentucky,Louisville,1,0
+1539761,"November 1, 2019",Texas,Houston,1,0
+1539159,"October 30, 2019",Texas,Conroe,1,0
+1538996,"October 30, 2019",Georgia,Duluth,1,0
+1539595,"October 30, 2019",Mississippi,Hattiesburg,1,0
+1535859,"October 27, 2019",Alabama,Attalla,1,1
+1536955,"October 27, 2019",Colorado,Colorado Springs,1,0
+1535028,"October 26, 2019",Michigan,Battle Creek,1,0
+1535185,"October 26, 2019",New York,Corona (Queens),1,0
+1535085,"October 25, 2019",Arkansas,Springdale,1,0
+1533271,"October 23, 2019",Arkansas,Arkadelphia,1,0
+1533610,"October 23, 2019",Indiana,Mooresville,1,0
+1535476,"October 23, 2019",Utah,Willard,1,0
+1532400,"October 21, 2019",Texas,Fort Worth,1,0
+1531137,"October 20, 2019",Virginia,Richmond,1,0
+1531412,"October 20, 2019",Wisconsin,Milwaukee,1,0
+1531010,"October 20, 2019",Texas,San Antonio,1,0
+1531661,"October 20, 2019",Michigan,Lansing,1,0
+1530965,"October 20, 2019",Texas,Port Arthur,1,3
+1531063,"October 19, 2019",Missouri,Columbia,1,0
+1542057,"October 19, 2019",Ohio,Cincinnati,1,0
+1528713,"October 17, 2019",Indiana,Mooresville,1,0
+1526761,"October 14, 2019",Louisiana,Ethel,1,0
+1526131,"October 13, 2019",Tennessee,Nashville,1,0
+1526320,"October 12, 2019",Oregon,Scappoose,1,0
+1523848,"October 10, 2019",Tennessee,Ridgetop,1,0
+1522472,"October 8, 2019",Texas,Lubbock,1,0
+1522917,"October 8, 2019",Maine,Eustis,1,0
+1523339,"October 8, 2019",Montana,Ronan,1,0
+1521090,"October 6, 2019",New Jersey,Paterson,1,0
+1520520,"October 6, 2019",California,Fresno,1,0
+1527348,"October 6, 2019",Wisconsin,Marinette (county),1,0
+1520107,"October 5, 2019",Alabama,Friendship,1,0
+1521125,"October 5, 2019",South Carolina,Hanahan,1,0
+1519354,"October 4, 2019",Indiana,Indianapolis,1,0
+1518529,"October 3, 2019",Georgia,Atlanta,1,0
+1517767,"October 2, 2019",Georgia,Decatur,1,0
+1517546,"October 2, 2019",Florida,Gulf Breeze,1,0
+1517049,"October 1, 2019",New York,Corona (Queens),1,0
+1515980,"September 30, 2019",North Carolina,Charlotte,1,0
+1515339,"September 29, 2019",Rhode Island,Providence,1,1
+1514898,"September 28, 2019",Texas,San Antonio,1,0
+1515030,"September 28, 2019",Georgia,Brunswick,1,0
+1516320,"September 28, 2019",Pennsylvania,Waynesburg,1,0
+1514922,"September 27, 2019",Ohio,Columbus,1,0
+1514363,"September 26, 2019",North Carolina,Winston Salem (Winston-salem),1,0
+1512772,"September 25, 2019",Texas,Spring,1,0
+1511907,"September 24, 2019",Missouri,Kansas City (Gladstone),1,0
+1608875,"September 22, 2019",Kentucky,Covington,1,0
+1511135,"September 22, 2019",Illinois,Decatur,1,0
+1509915,"September 21, 2019",New York,Newburgh,1,1
+1509367,"September 20, 2019",Louisiana,Baton Rouge,1,0
+1508756,"September 19, 2019",Wisconsin,Milwaukee,1,0
+1506553,"September 17, 2019",Wisconsin,Reeseville,1,0
+1504579,"September 15, 2019",Texas,Arlington,1,1
+1504619,"September 15, 2019",Texas,Fort Worth,1,0
+1505334,"September 15, 2019",Michigan,Detroit,1,0
+1503927,"September 14, 2019",Kentucky,Louisville,1,0
+1502475,"September 12, 2019",Missouri,Saint Louis,1,0
+1502851,"September 12, 2019",Florida,Lake Worth (Palm Springs),1,0
+1501152,"September 10, 2019",Pennsylvania,Philadelphia,1,1
+1501228,"September 10, 2019",Iowa,Fort Dodge,1,0
+1500260,"September 9, 2019",Massachusetts,Auburn,1,0
+1499671,"September 8, 2019",Michigan,Grand Rapids,1,0
+1499567,"September 8, 2019",Pennsylvania,Pittsburgh,1,0
+1499224,"September 7, 2019",Washington,Lynnwood,1,0
+1501194,"September 6, 2019",Washington,Selah,1,0
+1496835,"September 4, 2019",Connecticut,Danbury,1,0
+1494737,"September 2, 2019",California,Oakland,1,0
+1494294,"September 1, 2019",Louisiana,Shreveport,1,0
+1494530,"September 1, 2019",Mississippi,Carriere,1,0
+1495103,"September 1, 2019",Alabama,Geneva,1,0
+1494302,"September 1, 2019",Louisiana,Lafayette,1,0
+1498326,"August 31, 2019",Illinois,Galesburg,1,0
+1491718,"August 29, 2019",Michigan,Detroit,1,1
+1490546,"August 28, 2019",Virginia,Petersburg,1,0
+1489985,"August 27, 2019",Illinois,Dolton,1,0
+1490936,"August 27, 2019",Louisiana,Marrero,1,0
+1488879,"August 26, 2019",Pennsylvania,Gordon,1,0
+1488638,"August 26, 2019",Pennsylvania,Gordon,1,0
+1490607,"August 25, 2019",Alabama,Huntsville,1,0
+1487550,"August 24, 2019",Florida,Daytona Beach,1,0
+1486568,"August 23, 2019",Alabama,Birmingham (Tarrant),1,0
+1486893,"August 23, 2019",Florida,Tallahassee,1,0
+1485322,"August 21, 2019",Illinois,Dolton,1,0
+1483899,"August 20, 2019",Pennsylvania,York,1,0
+1482238,"August 18, 2019",Florida,Miami (Cutler Bay),1,0
+1481936,"August 17, 2019",California,Poway,1,0
+1482469,"August 17, 2019",Oklahoma,Clinton,1,0
+1481679,"August 17, 2019",Kansas,Topeka,1,0
+1482423,"August 17, 2019",Ohio,Cincinnati,1,0
+1481968,"August 16, 2019",Texas,Fort Worth,1,0
+1481415,"August 16, 2019",Alabama,Montgomery,1,0
+1479992,"August 14, 2019",West Virginia,Nitro,1,0
+1481097,"August 14, 2019",Arizona,Phoenix,1,0
+1479182,"August 14, 2019",Texas,Dallas,1,0
+1480024,"August 14, 2019",Utah,Saint George (St George),1,0
+1485063,"August 12, 2019",Nevada,Las Vegas,1,0
+1477032,"August 11, 2019",Michigan,Lansing,1,0
+1476537,"August 11, 2019",Ohio,Cincinnati,1,1
+1475708,"August 10, 2019",Ohio,Fairfield,1,0
+1473393,"August 8, 2019",Kansas,Olathe,1,0
+1474852,"August 8, 2019",Illinois,Bensenville,1,0
+1473306,"August 6, 2019",New York,Bronx,1,0
+1470479,"August 5, 2019",Alabama,Tuscaloosa,1,2
+1469267,"August 4, 2019",Louisiana,Monroe,1,0
+1465898,"August 2, 2019",Virginia,Colonial Heights,1,0
+1465473,"August 1, 2019",Texas,Arlington,1,0
+1465536,"August 1, 2019",Montana,Toston,1,0
+1466528,"August 1, 2019",Arkansas,Little Rock,1,0
+1464941,"July 30, 2019",Arizona,Tucson,1,0
+1462854,"July 30, 2019",Arizona,Tucson,1,0
+1462610,"July 29, 2019",Pennsylvania,Columbia,1,0
+1461110,"July 28, 2019",Illinois,Chicago,1,0
+1462286,"July 27, 2019",Alaska,Saint Marys,1,0
+1459239,"July 26, 2019",Illinois,Aurora,1,0
+1460198,"July 26, 2019",Texas,Jasper,1,0
+1457269,"July 25, 2019",New Jersey,Atlantic City,1,0
+1457258,"July 24, 2019",Texas,San Antonio,1,0
+1456902,"July 24, 2019",Texas,San Antonio,1,0
+1457108,"July 24, 2019",Ohio,Harrison,1,0
+1455368,"July 22, 2019",Georgia,Athens,1,0
+1453968,"July 21, 2019",Louisiana,Winnsboro,1,0
+1453856,"July 21, 2019",Virginia,Petersburg,1,1
+1453343,"July 21, 2019",Maryland,Woodbine,1,0
+1455113,"July 21, 2019",Mississippi,Woodland,1,0
+1453186,"July 20, 2019",Missouri,Saint Louis,1,0
+1453388,"July 20, 2019",Texas,Houston,1,0
+1453316,"July 20, 2019",Mississippi,Columbus,1,0
+1455031,"July 19, 2019",Oklahoma,Oklahoma City,1,0
+1453955,"July 18, 2019",Texas,Livingston (Segno),1,0
+1450581,"July 17, 2019",Illinois,Shelbina,1,0
+1449886,"July 17, 2019",Texas,Channelview,2,0
+1450859,"July 17, 2019",Missouri,Shelbina,1,0
+1447821,"July 14, 2019",Colorado,Aurora,1,0
+1447491,"July 14, 2019",Arizona,Chandler,1,0
+1446409,"July 12, 2019",Texas,Spring,1,0
+1446499,"July 11, 2019",Michigan,Ypsilanti,1,0
+1441469,"July 7, 2019",Indiana,East Chicago,1,1
+1442733,"July 6, 2019",Montana,Helena,1,0
+1440596,"July 6, 2019",Utah,Payson,2,0
+1444493,"July 6, 2019",Indiana,Kendallville,1,0
+1439323,"July 2, 2019",Arizona,Phoenix,1,0
+1437995,"July 2, 2019",Washington,Federal Way,1,0
+1437834,"June 30, 2019",Arizona,Paulden,1,0
+1437037,"June 30, 2019",Louisiana,Lafayette,1,0
+1434639,"June 28, 2019",Louisiana,Shreveport,1,0
+1436602,"June 28, 2019",West Virginia,Junior,1,0
+1437559,"June 28, 2019",Mississippi,Ellisville,1,0
+1433166,"June 26, 2019",Kentucky,Kimper,1,0
+1430164,"June 24, 2019",Tennessee,Memphis,1,0
+1431541,"June 24, 2019",California,San Bernardino,1,0
+1429406,"June 23, 2019",Mississippi,Jackson,1,0
+1428280,"June 21, 2019",Texas,Katy,1,0
+1427218,"June 20, 2019",South Carolina,Greenville,1,0
+1427181,"June 19, 2019",Indiana,South Bend,1,0
+1426296,"June 19, 2019",Oregon,Portland,1,0
+1429770,"June 18, 2019",Wisconsin,Milwaukee,1,0
+1424395,"June 17, 2019",Wisconsin,Kenosha,1,0
+1423526,"June 16, 2019",Alabama,Birmingham,1,2
+1424925,"June 16, 2019",Texas,San Angelo,1,0
+1421241,"June 12, 2019",Georgia,Gray,1,0
+1419559,"June 11, 2019",Kentucky,Rocky Hill,1,0
+1419834,"June 10, 2019",Mississippi,Horn Lake,1,1
+1419431,"June 10, 2019",South Carolina,North Charleston,1,0
+1418975,"June 9, 2019",Alabama,Tuscaloosa,1,0
+1418818,"June 9, 2019",Idaho,Montpelier,1,0
+1418384,"June 8, 2019",North Carolina,Kannapolis,1,0
+1417620,"June 7, 2019",West Virginia,Lewisburg,1,0
+1416972,"June 7, 2019",Arizona,Tucson (Tuscon),1,0
+1417080,"June 7, 2019",Texas,Lubbock,1,0
+1418578,"June 7, 2019",Wisconsin,Wausau,1,0
+1415323,"June 6, 2019",Ohio,Columbus,1,1
+1419903,"June 3, 2019",Texas,Inez,1,0
+1413663,"June 2, 2019",Oklahoma,Byars,1,0
+1413510,"June 2, 2019",Tennessee,Greeneville,1,0
+1412302,"June 1, 2019",Maryland,Ellicott City,1,0
+1410916,"May 31, 2019",Oklahoma,Edmond,1,0
+1409965,"May 30, 2019",South Carolina,Sumter,1,0
+1410011,"May 30, 2019",Mississippi,Pearl,1,0
+1408146,"May 28, 2019",Mississippi,Laurel,1,0
+1407338,"May 27, 2019",Florida,Tallahassee,1,0
+1408646,"May 27, 2019",Arizona,Phoenix,1,0
+1406147,"May 27, 2019",Florida,Pensacola,1,1
+1406974,"May 27, 2019",Georgia,Savannah,1,0
+1455974,"May 26, 2019",Alabama,Talladega,1,0
+1406563,"May 26, 2019",Arizona,Tucson,1,0
+1405954,"May 26, 2019",Virginia,Richmond,1,2
+1410272,"May 26, 2019",Florida,Valrico,1,0
+1412206,"May 26, 2019",Washington,Toppenish,1,0
+1404771,"May 25, 2019",Tennessee,Memphis,1,0
+1405012,"May 25, 2019",Louisiana,Baton Rouge,1,0
+1402529,"May 21, 2019",Ohio,Belle Valley,1,0
+1399436,"May 19, 2019",South Carolina,Greenville,1,0
+1398159,"May 17, 2019",Missouri,Kansas City,1,0
+1398153,"May 17, 2019",Arkansas,Little Rock,1,0
+1398927,"May 16, 2019",Oklahoma,Calera,1,0
+1395723,"May 15, 2019",Ohio,Toledo,1,0
+1395374,"May 14, 2019",Missouri,Kansas City,1,0
+1400050,"May 13, 2019",Illinois,Chicago,1,0
+1393281,"May 12, 2019",California,Fresno,1,0
+1393162,"May 12, 2019",Ohio,Toledo,1,0
+1392942,"May 12, 2019",Montana,Billings,1,0
+1392351,"May 11, 2019",Tennessee,Antioch,1,0
+1394434,"May 11, 2019",Texas,Victoria,1,0
+1395097,"May 11, 2019",Tennessee,Jackson,1,0
+1392677,"May 11, 2019",Idaho,Idaho Falls,1,0
+1390919,"May 9, 2019",Arizona,Phoenix,1,0
+1390793,"May 8, 2019",Florida,Riverview,1,0
+1387642,"May 5, 2019",Wisconsin,Milwaukee,1,0
+1387168,"May 4, 2019",Illinois,Centralia,1,0
+1388834,"May 3, 2019",Georgia,Covington,1,0
+1385486,"May 2, 2019",Texas,Lufkin,1,0
+1384330,"April 29, 2019",Arizona,Yuma,1,0
+1381613,"April 27, 2019",Massachusetts,Great Barrington,1,0
+1377938,"April 21, 2019",New York,Bronx,1,0
+1376917,"April 20, 2019",Ohio,Cleveland,1,0
+1377378,"April 20, 2019",Mississippi,Natchez,1,0
+1372960,"April 15, 2019",Tennessee,Etowah,1,0
+1370948,"April 14, 2019",Missouri,Saint Louis,1,0
+1371035,"April 14, 2019",New York,Syracuse,1,0
+1372315,"April 13, 2019",New York,Yonkers,1,0
+1370591,"April 13, 2019",North Carolina,Rocky Mount,1,0
+1370974,"April 13, 2019",Kentucky,Lawrenceburg,1,0
+1371988,"April 13, 2019",Texas,Colorado City,1,0
+1370249,"April 13, 2019",Alabama,Birmingham (Vestavia Hills),1,1
+1370287,"April 12, 2019",Texas,Fort Worth,1,0
+1366615,"April 8, 2019",Georgia,Dallas,1,0
+1368008,"April 7, 2019",Mississippi,Indianola,1,0
+1365495,"April 7, 2019",Maryland,Fort Washington,1,0
+1364591,"April 5, 2019",Alabama,Birmingham,1,0
+1363434,"April 4, 2019",Mississippi,Tunica,1,0
+1362942,"April 3, 2019",Virginia,Richmond (North Chesterfield),1,0
+1364291,"April 3, 2019",Indiana,Gary,1,0
+1362434,"April 2, 2019",New Mexico,Albuquerque,1,0
+1360750,"March 31, 2019",Texas,Belton,1,0
+1359562,"March 30, 2019",Georgia,Norcross,1,0
+1360810,"March 30, 2019",Kansas,Concordia,1,0
+1354947,"March 25, 2019",New York,Buffalo,1,0
+1354713,"March 24, 2019",Iowa,Montrose,1,0
+1383237,"March 24, 2019",Utah,Salt Lake City,1,0
+1352829,"March 22, 2019",Arkansas,Springdale,1,0
+1354026,"March 22, 2019",North Carolina,Fayetteville,1,0
+1353439,"March 22, 2019",Arizona,Phoenix,1,0
+1352207,"March 20, 2019",Ohio,Mansfield,1,0
+1356292,"March 20, 2019",Mississippi,Picayune,1,0
+1351519,"March 19, 2019",Texas,Tomball (The Woodlands),1,0
+1349563,"March 18, 2019",Utah,Salt Lake City (Kearns),1,0
+1350746,"March 18, 2019",Texas,Spring,1,0
+1348185,"March 16, 2019",Florida,Miami Gardens,1,0
+1348026,"March 15, 2019",Tennessee,Nashville,1,0
+1347878,"March 14, 2019",Mississippi,Greenville,1,0
+1346113,"March 13, 2019",Texas,Houston,1,0
+1345043,"March 11, 2019",Virginia,Evington,1,0
+1343682,"March 9, 2019",Michigan,Detroit,1,0
+1343015,"March 9, 2019",Louisiana,New Orleans,1,0
+1343223,"March 9, 2019",New Jersey,Barnegat,1,0
+1343205,"March 9, 2019",Illinois,Chicago,1,0
+1347871,"March 9, 2019",Mississippi,Greenwood,1,0
+1342924,"March 8, 2019",Georgia,Douglasville,1,0
+1341626,"March 7, 2019",West Virginia,Huntington,1,0
+1340335,"March 5, 2019",Texas,Midland,1,0
+1340440,"March 4, 2019",Missouri,Saint Louis,1,0
+1334155,"February 24, 2019",Ohio,Niles,1,0
+1333774,"February 23, 2019",South Carolina,North Charleston,1,0
+1331403,"February 20, 2019",South Carolina,Spartanburg,1,0
+1331529,"February 19, 2019",Oregon,Unity,1,0
+1329984,"February 18, 2019",Indiana,Richmond,1,0
+1329406,"February 17, 2019",Iowa,Davenport,1,0
+1326968,"February 13, 2019",Louisiana,Marrero,1,0
+1323311,"February 9, 2019",Texas,Houston,1,0
+1323697,"February 9, 2019",Mississippi,Saucier,2,0
+1323453,"February 9, 2019",Alabama,Troy,1,0
+1322043,"February 7, 2019",South Carolina,Greer,1,0
+1320361,"February 5, 2019",Texas,Fort Worth,1,0
+1320271,"February 5, 2019",Utah,Salt Lake City (West Valley City),1,0
+1321354,"February 5, 2019",Georgia,Waleska,1,0
+1318461,"February 3, 2019",Georgia,Harlem,1,0
+1318649,"February 3, 2019",California,Firebaugh,1,0
+1322220,"February 1, 2019",New York,Putnam Valley,1,0
+1314249,"January 27, 2019",Iowa,Lincoln,1,0
+1313441,"January 27, 2019",Texas,Spring,1,0
+1309738,"January 24, 2019",Missouri,Saint Louis,1,0
+1309745,"January 22, 2019",Ohio,Alliance,1,0
+1308070,"January 22, 2019",New York,Syracuse,1,0
+1308482,"January 22, 2019",Texas,Houston,1,0
+1308241,"January 21, 2019",Virginia,Hanover (Mangohick),1,0
+1307368,"January 21, 2019",Kansas,Wichita,1,0
+1306428,"January 20, 2019",Michigan,Houghton Lake,1,0
+1306011,"January 19, 2019",Texas,Houston,1,0
+1308718,"January 19, 2019",Texas,Temple,2,0
+1306395,"January 19, 2019",Florida,Jacksonville,1,0
+1306941,"January 19, 2019",South Carolina,Allendale,1,0
+1305643,"January 19, 2019",Texas,Houston,1,0
+1304982,"January 18, 2019",Alabama,Bay Minette,1,0
+1304673,"January 17, 2019",South Carolina,Chesnee,1,0
+1305283,"January 17, 2019",Illinois,Romeoville,1,0
+1303798,"January 16, 2019",Mississippi,Florence,1,0
+1314478,"January 16, 2019",Pennsylvania,Levittown,1,0
+1305697,"January 16, 2019",Georgia,Atlanta,1,0
+1305254,"January 16, 2019",North Carolina,Granite Falls,1,0
+1302992,"January 16, 2019",Texas,Houston,1,0
+1300600,"January 14, 2019",Florida,Altamonte Springs,1,0
+1301688,"January 13, 2019",Alabama,Orrville,1,0
+1299432,"January 12, 2019",Oregon,Bend,1,0
+1299668,"January 12, 2019",Louisiana,New Orleans,1,0
+1297524,"January 10, 2019",Tennessee,Madison,1,0
+1296573,"January 8, 2019",Virginia,Bedford,1,0
+1295963,"January 7, 2019",Alabama,Toney,1,0
+1295161,"January 6, 2019",Alabama,Dadeville,1,0
+1356860,"January 6, 2019",California,San Jose,1,0
+1293992,"January 5, 2019",Oklahoma,Tulsa,1,0
+1291882,"January 3, 2019",Kentucky,Henderson,1,0
+1292019,"January 3, 2019",Georgia,Augusta,1,0
+1289551,"January 1, 2019",District of Columbia,Washington,1,0
+1289802,"January 1, 2019",Indiana,Gary,1,0
+1289271,"December 31, 2018",Georgia,Lawrenceville,2,0
+1289265,"December 30, 2018",Missouri,Saint Louis,1,0
+1288497,"December 30, 2018",Texas,Dallas,1,0
+1299646,"December 30, 2018",California,Nipomo,1,0
+1286304,"December 26, 2018",Mississippi,Goodman,1,0
+1286417,"December 26, 2018",Florida,Lake City,1,0
+1284928,"December 25, 2018",West Virginia,Montana Mines,1,0
+1283079,"December 23, 2018",Florida,Saint Petersburg,1,0
+1282886,"December 22, 2018",Texas,San Antonio,1,0
+1282603,"December 22, 2018",South Carolina,Gresham,1,0
+1294928,"December 22, 2018",Colorado,Rocky Ford,1,0
+1287865,"December 21, 2018",Missouri,Newtown,1,0
+1281105,"December 20, 2018",Tennessee,Memphis,1,0
+1281382,"December 19, 2018",Missouri,Columbia,1,0
+1280326,"December 18, 2018",Pennsylvania,Lehighton,1,0
+1278429,"December 16, 2018",Kentucky,Bowling Green,1,0
+1283283,"December 16, 2018",North Carolina,Carthage (Whispering Pines),1,0
+1280781,"December 15, 2018",Oklahoma,Bartlesville,1,0
+1278409,"December 15, 2018",Texas,Houston,1,0
+1278778,"December 14, 2018",Missouri,Florissant,1,0
+1277231,"December 14, 2018",Mississippi,Waynesboro,1,0
+1277643,"December 14, 2018",California,Bakersfield,1,0

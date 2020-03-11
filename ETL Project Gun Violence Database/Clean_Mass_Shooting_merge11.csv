@@ -1,0 +1,45 @@
+State,Num_Killed,Num_Injured
+Texas,78,167
+California,70,227
+Missouri,31,97
+Illinois,29,208
+Ohio,28,90
+Louisiana,26,120
+Florida,25,79
+Virginia,21,41
+North Carolina,21,51
+Alabama,19,49
+Pennsylvania,17,88
+Georgia,16,78
+Maryland,13,95
+South Carolina,13,45
+Indiana,13,51
+New Jersey,12,47
+Wisconsin,12,17
+Mississippi,12,29
+New York,10,53
+Washington,9,19
+Michigan,8,35
+New Mexico,8,22
+Arizona,7,26
+Massachusetts,7,17
+Arkansas,6,21
+Kentucky,6,18
+Kansas,5,16
+Montana,5,4
+Oklahoma,5,12
+Utah,4,1
+Colorado,4,37
+Tennessee,4,46
+District of Columbia,4,34
+Maine,3,1
+Iowa,3,11
+Connecticut,2,21
+Idaho,2,3
+Wyoming,2,2
+Delaware,1,14
+Nevada,1,16
+Minnesota,1,12
+Oregon,0,5
+Nebraska,0,4
+West Virginia,0,7
